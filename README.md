@@ -25,11 +25,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [2609-distinct-prime-factors-of-product-of-array](https://github.com/charizard00001/Leetcode/tree/master/2609-distinct-prime-factors-of-product-of-array) |
 | [3863-power-grid-maintenance](https://github.com/charizard00001/Leetcode/tree/master/3863-power-grid-maintenance) |
 | [3934-coupon-code-validator](https://github.com/charizard00001/Leetcode/tree/master/3934-coupon-code-validator) |
 ## Hash Table
 |  |
 | ------- |
+| [2609-distinct-prime-factors-of-product-of-array](https://github.com/charizard00001/Leetcode/tree/master/2609-distinct-prime-factors-of-product-of-array) |
 | [3863-power-grid-maintenance](https://github.com/charizard00001/Leetcode/tree/master/3863-power-grid-maintenance) |
 | [3934-coupon-code-validator](https://github.com/charizard00001/Leetcode/tree/master/3934-coupon-code-validator) |
 ## Depth-First Search
@@ -52,4 +54,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3934-coupon-code-validator](https://github.com/charizard00001/Leetcode/tree/master/3934-coupon-code-validator) |
+## Math
+|  |
+| ------- |
+| [2609-distinct-prime-factors-of-product-of-array](https://github.com/charizard00001/Leetcode/tree/master/2609-distinct-prime-factors-of-product-of-array) |
+## Number Theory
+|  |
+| ------- |
+| [2609-distinct-prime-factors-of-product-of-array](https://github.com/charizard00001/Leetcode/tree/master/2609-distinct-prime-factors-of-product-of-array) |
 <!---LeetCode Topics End-->
