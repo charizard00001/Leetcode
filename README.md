@@ -6,20 +6,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [3881-minimize-maximum-component-cost](https://github.com/charizard00001/Leetcode/tree/master/3881-minimize-maximum-component-cost) |
 | [3908-minimum-time-for-k-connected-components](https://github.com/charizard00001/Leetcode/tree/master/3908-minimum-time-for-k-connected-components) |
 ## Union Find
 |  |
 | ------- |
 | [3863-power-grid-maintenance](https://github.com/charizard00001/Leetcode/tree/master/3863-power-grid-maintenance) |
+| [3881-minimize-maximum-component-cost](https://github.com/charizard00001/Leetcode/tree/master/3881-minimize-maximum-component-cost) |
 | [3908-minimum-time-for-k-connected-components](https://github.com/charizard00001/Leetcode/tree/master/3908-minimum-time-for-k-connected-components) |
 ## Graph
 |  |
 | ------- |
 | [3863-power-grid-maintenance](https://github.com/charizard00001/Leetcode/tree/master/3863-power-grid-maintenance) |
+| [3881-minimize-maximum-component-cost](https://github.com/charizard00001/Leetcode/tree/master/3881-minimize-maximum-component-cost) |
 | [3908-minimum-time-for-k-connected-components](https://github.com/charizard00001/Leetcode/tree/master/3908-minimum-time-for-k-connected-components) |
 ## Sorting
 |  |
 | ------- |
+| [3881-minimize-maximum-component-cost](https://github.com/charizard00001/Leetcode/tree/master/3881-minimize-maximum-component-cost) |
 | [3908-minimum-time-for-k-connected-components](https://github.com/charizard00001/Leetcode/tree/master/3908-minimum-time-for-k-connected-components) |
 | [3934-coupon-code-validator](https://github.com/charizard00001/Leetcode/tree/master/3934-coupon-code-validator) |
 ## Array
