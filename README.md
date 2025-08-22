@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3863-power-grid-maintenance](https://github.com/charizard00001/Leetcode/tree/master/3863-power-grid-maintenance) |
 | [3919-network-recovery-pathways](https://github.com/charizard00001/Leetcode/tree/master/3919-network-recovery-pathways) |
 | [3934-coupon-code-validator](https://github.com/charizard00001/Leetcode/tree/master/3934-coupon-code-validator) |
+| [3980-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/charizard00001/Leetcode/tree/master/3980-best-time-to-buy-and-sell-stock-using-strategy) |
 ## Hash Table
 |  |
 | ------- |
@@ -87,4 +88,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3919-network-recovery-pathways](https://github.com/charizard00001/Leetcode/tree/master/3919-network-recovery-pathways) |
+## Sliding Window
+|  |
+| ------- |
+| [3980-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/charizard00001/Leetcode/tree/master/3980-best-time-to-buy-and-sell-stock-using-strategy) |
+## Prefix Sum
+|  |
+| ------- |
+| [3980-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/charizard00001/Leetcode/tree/master/3980-best-time-to-buy-and-sell-stock-using-strategy) |
 <!---LeetCode Topics End-->
