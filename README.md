@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3881-minimize-maximum-component-cost](https://github.com/charizard00001/Leetcode/tree/master/3881-minimize-maximum-component-cost) |
 | [3908-minimum-time-for-k-connected-components](https://github.com/charizard00001/Leetcode/tree/master/3908-minimum-time-for-k-connected-components) |
+| [3919-network-recovery-pathways](https://github.com/charizard00001/Leetcode/tree/master/3919-network-recovery-pathways) |
 ## Union Find
 |  |
 | ------- |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3863-power-grid-maintenance](https://github.com/charizard00001/Leetcode/tree/master/3863-power-grid-maintenance) |
 | [3881-minimize-maximum-component-cost](https://github.com/charizard00001/Leetcode/tree/master/3881-minimize-maximum-component-cost) |
 | [3908-minimum-time-for-k-connected-components](https://github.com/charizard00001/Leetcode/tree/master/3908-minimum-time-for-k-connected-components) |
+| [3919-network-recovery-pathways](https://github.com/charizard00001/Leetcode/tree/master/3919-network-recovery-pathways) |
 ## Sorting
 |  |
 | ------- |
@@ -32,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/charizard00001/Leetcode/tree/master/2609-distinct-prime-factors-of-product-of-array) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/charizard00001/Leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3863-power-grid-maintenance](https://github.com/charizard00001/Leetcode/tree/master/3863-power-grid-maintenance) |
+| [3919-network-recovery-pathways](https://github.com/charizard00001/Leetcode/tree/master/3919-network-recovery-pathways) |
 | [3934-coupon-code-validator](https://github.com/charizard00001/Leetcode/tree/master/3934-coupon-code-validator) |
 ## Hash Table
 |  |
@@ -51,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3863-power-grid-maintenance](https://github.com/charizard00001/Leetcode/tree/master/3863-power-grid-maintenance) |
+| [3919-network-recovery-pathways](https://github.com/charizard00001/Leetcode/tree/master/3919-network-recovery-pathways) |
 ## Ordered Set
 |  |
 | ------- |
@@ -71,4 +75,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/charizard00001/Leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3919-network-recovery-pathways](https://github.com/charizard00001/Leetcode/tree/master/3919-network-recovery-pathways) |
+## Topological Sort
+|  |
+| ------- |
+| [3919-network-recovery-pathways](https://github.com/charizard00001/Leetcode/tree/master/3919-network-recovery-pathways) |
+## Shortest Path
+|  |
+| ------- |
+| [3919-network-recovery-pathways](https://github.com/charizard00001/Leetcode/tree/master/3919-network-recovery-pathways) |
 <!---LeetCode Topics End-->
