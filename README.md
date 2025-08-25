@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0498-diagonal-traverse](https://github.com/charizard00001/Leetcode/tree/master/0498-diagonal-traverse) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/charizard00001/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2388-replace-elements-in-an-array](https://github.com/charizard00001/Leetcode/tree/master/2388-replace-elements-in-an-array) |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/charizard00001/Leetcode/tree/master/2609-distinct-prime-factors-of-product-of-array) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0498-diagonal-traverse](https://github.com/charizard00001/Leetcode/tree/master/0498-diagonal-traverse) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/charizard00001/Leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 ## Dynamic Programming
 |  |
@@ -104,5 +106,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0498-diagonal-traverse](https://github.com/charizard00001/Leetcode/tree/master/0498-diagonal-traverse) |
 | [2388-replace-elements-in-an-array](https://github.com/charizard00001/Leetcode/tree/master/2388-replace-elements-in-an-array) |
 <!---LeetCode Topics End-->
