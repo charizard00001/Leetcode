@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [1253-sort-the-matrix-diagonally](https://github.com/charizard00001/Leetcode/tree/master/1253-sort-the-matrix-diagonally) |
 | [3748-sort-matrix-by-diagonals](https://github.com/charizard00001/Leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 | [3881-minimize-maximum-component-cost](https://github.com/charizard00001/Leetcode/tree/master/3881-minimize-maximum-component-cost) |
 | [3908-minimum-time-for-k-connected-components](https://github.com/charizard00001/Leetcode/tree/master/3908-minimum-time-for-k-connected-components) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0498-diagonal-traverse](https://github.com/charizard00001/Leetcode/tree/master/0498-diagonal-traverse) |
+| [1253-sort-the-matrix-diagonally](https://github.com/charizard00001/Leetcode/tree/master/1253-sort-the-matrix-diagonally) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/charizard00001/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2388-replace-elements-in-an-array](https://github.com/charizard00001/Leetcode/tree/master/2388-replace-elements-in-an-array) |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/charizard00001/Leetcode/tree/master/2609-distinct-prime-factors-of-product-of-array) |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0498-diagonal-traverse](https://github.com/charizard00001/Leetcode/tree/master/0498-diagonal-traverse) |
+| [1253-sort-the-matrix-diagonally](https://github.com/charizard00001/Leetcode/tree/master/1253-sort-the-matrix-diagonally) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/charizard00001/Leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3748-sort-matrix-by-diagonals](https://github.com/charizard00001/Leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 ## Dynamic Programming
