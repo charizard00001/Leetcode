@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [3748-sort-matrix-by-diagonals](https://github.com/charizard00001/Leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 | [3881-minimize-maximum-component-cost](https://github.com/charizard00001/Leetcode/tree/master/3881-minimize-maximum-component-cost) |
 | [3908-minimum-time-for-k-connected-components](https://github.com/charizard00001/Leetcode/tree/master/3908-minimum-time-for-k-connected-components) |
 | [3934-coupon-code-validator](https://github.com/charizard00001/Leetcode/tree/master/3934-coupon-code-validator) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/charizard00001/Leetcode/tree/master/2609-distinct-prime-factors-of-product-of-array) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/charizard00001/Leetcode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/charizard00001/Leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
+| [3748-sort-matrix-by-diagonals](https://github.com/charizard00001/Leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 | [3776-find-minimum-cost-to-remove-array-elements](https://github.com/charizard00001/Leetcode/tree/master/3776-find-minimum-cost-to-remove-array-elements) |
 | [3863-power-grid-maintenance](https://github.com/charizard00001/Leetcode/tree/master/3863-power-grid-maintenance) |
 | [3919-network-recovery-pathways](https://github.com/charizard00001/Leetcode/tree/master/3919-network-recovery-pathways) |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0498-diagonal-traverse](https://github.com/charizard00001/Leetcode/tree/master/0498-diagonal-traverse) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/charizard00001/Leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
+| [3748-sort-matrix-by-diagonals](https://github.com/charizard00001/Leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 ## Dynamic Programming
 |  |
 | ------- |
