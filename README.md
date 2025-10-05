@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0498-diagonal-traverse](https://github.com/charizard00001/Leetcode/tree/master/0498-diagonal-traverse) |
+| [0546-remove-boxes](https://github.com/charizard00001/Leetcode/tree/master/0546-remove-boxes) |
 | [1253-sort-the-matrix-diagonally](https://github.com/charizard00001/Leetcode/tree/master/1253-sort-the-matrix-diagonally) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/charizard00001/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2388-replace-elements-in-an-array](https://github.com/charizard00001/Leetcode/tree/master/2388-replace-elements-in-an-array) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0546-remove-boxes](https://github.com/charizard00001/Leetcode/tree/master/0546-remove-boxes) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/charizard00001/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [3776-find-minimum-cost-to-remove-array-elements](https://github.com/charizard00001/Leetcode/tree/master/3776-find-minimum-cost-to-remove-array-elements) |
 | [3919-network-recovery-pathways](https://github.com/charizard00001/Leetcode/tree/master/3919-network-recovery-pathways) |
@@ -133,4 +135,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2419-subarray-with-elements-greater-than-varying-threshold](https://github.com/charizard00001/Leetcode/tree/master/2419-subarray-with-elements-greater-than-varying-threshold) |
+## Memoization
+|  |
+| ------- |
+| [0546-remove-boxes](https://github.com/charizard00001/Leetcode/tree/master/0546-remove-boxes) |
 <!---LeetCode Topics End-->
