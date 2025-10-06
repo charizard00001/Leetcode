@@ -1,6 +1,6 @@
 class Solution {
     string s;
-    long long dp[17][17][2][2];
+    long long dp[16][16][2][2];
 public:
     long long f(int i, int carry, int za, int zb){
         if(i == s.size()){
