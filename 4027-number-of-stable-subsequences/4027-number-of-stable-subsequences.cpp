@@ -3,6 +3,10 @@ class Solution {
 public:
     int countStableSubsequences(vector<int>& nums) {
         vector<int> dp(4, 0);
+        // 0 : oe
+        // 1 : eo
+        // 2 : 00
+        // 3 : ee
         int odd = 0;
         int even = 0;
         int n = nums.size();
