@@ -31,7 +31,6 @@ public:
         int ans = 0;
         ans += odd;
         ans += even;
-        ans %= mod;
         for(int i = 0 ; i < 4 ; ++i) ans = (ans + dp[i]) % mod;
         return ans % mod;         
     }
