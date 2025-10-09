@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3919-network-recovery-pathways](https://github.com/charizard00001/Leetcode/tree/master/3919-network-recovery-pathways) |
 | [3934-coupon-code-validator](https://github.com/charizard00001/Leetcode/tree/master/3934-coupon-code-validator) |
 | [3980-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/charizard00001/Leetcode/tree/master/3980-best-time-to-buy-and-sell-stock-using-strategy) |
+| [4027-number-of-stable-subsequences](https://github.com/charizard00001/Leetcode/tree/master/4027-number-of-stable-subsequences) |
 ## Hash Table
 |  |
 | ------- |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3776-find-minimum-cost-to-remove-array-elements](https://github.com/charizard00001/Leetcode/tree/master/3776-find-minimum-cost-to-remove-array-elements) |
 | [3873-subsequence-sum-after-capping-elements](https://github.com/charizard00001/Leetcode/tree/master/3873-subsequence-sum-after-capping-elements) |
 | [3919-network-recovery-pathways](https://github.com/charizard00001/Leetcode/tree/master/3919-network-recovery-pathways) |
+| [4027-number-of-stable-subsequences](https://github.com/charizard00001/Leetcode/tree/master/4027-number-of-stable-subsequences) |
 ## Topological Sort
 |  |
 | ------- |
