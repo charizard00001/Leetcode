@@ -18,7 +18,7 @@ public:
         while(!pq.empty()){
             auto [w, x, y] = pq.top();
             pq.pop();
-            // if(x == row - 1 && y == col - 1) return w;
+            if(x == row - 1 && y == col - 1) return w;
             for(int i = 0 ; i < 4 ; ++i){
                     int nx = x + dx[i];
                     int ny = y + dy[i];
