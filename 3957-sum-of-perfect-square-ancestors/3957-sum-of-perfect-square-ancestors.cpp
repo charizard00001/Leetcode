@@ -28,46 +28,47 @@ public:
         }
         return res;
     }
-    // unordered_map<int, int> dfs(int u, int p) {
-    //     unordered_map<int, int> M;
-    //     for (auto &v : adj[u]) {
-    //         if(v == p) continue;
-    //         unordered_map<int, int> temp = dfs(v, u);
-    //         for(auto &[key, v] : temp){
-    //             M[key] += v;
-    //         }
-    //     }
-    //     if(M.find(value[u]) != M.end()){
-    //         ans += M[value[u]];
-    //     }
-    //     M[value[u]]++;
-    //     return M;
-    // }
-
     unordered_map<int, int> dfs(int u, int p) {
-        unordered_map<int, int> bigMap;
-
+        unordered_map<int, int> M;
         for (auto &v : adj[u]) {
-            if (v == p) continue;
-            auto childMap = dfs(v, u);
-
-            // Always merge smaller into larger
-            if (childMap.size() > bigMap.size())
-                swap(childMap, bigMap);
-
-            for (auto &[key, val] : childMap) {
-                bigMap[key] += val;
+            if(v == p) continue;
+            unordered_map<int, int> temp = dfs(v, u);
+            if(temp.size() > M.size()) swap(temp, M);
+            for(auto &[key, v] : temp){
+                M[key] += v;
             }
         }
-
-        // Use bigMap for current node
-        if (bigMap.find(value[u]) != bigMap.end()) {
-            ans += bigMap[value[u]];
+        if(M.find(value[u]) != M.end()){
+            ans += M[value[u]];
         }
-
-        bigMap[value[u]]++;
-        return bigMap;
+        M[value[u]]++;
+        return M;
     }
+
+    // unordered_map<int, int> dfs(int u, int p) {
+    //     unordered_map<int, int> bigMap;
+
+    //     for (auto &v : adj[u]) {
+    //         if (v == p) continue;
+    //         auto childMap = dfs(v, u);
+
+    //         // Always merge smaller into larger
+    //         if (childMap.size() > bigMap.size())
+    //             swap(childMap, bigMap);
+
+    //         for (auto &[key, val] : childMap) {
+    //             bigMap[key] += val;
+    //         }
+    //     }
+
+    //     // Use bigMap for current node
+    //     if (bigMap.find(value[u]) != bigMap.end()) {
+    //         ans += bigMap[value[u]];
+    //     }
+
+    //     bigMap[value[u]]++;
+    //     return bigMap;
+    // }
 
     long long sumOfAncestors(int n, vector<vector<int>>& edges, vector<int>& nums) {
         sieve();
