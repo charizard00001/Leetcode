@@ -31,6 +31,6 @@ public:
                     }
                 }
         }
-        return mat[row - 1][col - 1];
+        return 0;
     }
 };
