@@ -97,11 +97,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [3631-count-k-reducible-numbers-less-than-n](https://github.com/charizard00001/Leetcode/tree/master/3631-count-k-reducible-numbers-less-than-n) |
 | [3934-coupon-code-validator](https://github.com/charizard00001/Leetcode/tree/master/3934-coupon-code-validator) |
 ## Math
 |  |
 | ------- |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/charizard00001/Leetcode/tree/master/2609-distinct-prime-factors-of-product-of-array) |
+| [3631-count-k-reducible-numbers-less-than-n](https://github.com/charizard00001/Leetcode/tree/master/3631-count-k-reducible-numbers-less-than-n) |
 ## Number Theory
 |  |
 | ------- |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0546-remove-boxes](https://github.com/charizard00001/Leetcode/tree/master/0546-remove-boxes) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/charizard00001/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/charizard00001/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [3631-count-k-reducible-numbers-less-than-n](https://github.com/charizard00001/Leetcode/tree/master/3631-count-k-reducible-numbers-less-than-n) |
 | [3776-find-minimum-cost-to-remove-array-elements](https://github.com/charizard00001/Leetcode/tree/master/3776-find-minimum-cost-to-remove-array-elements) |
 | [3873-subsequence-sum-after-capping-elements](https://github.com/charizard00001/Leetcode/tree/master/3873-subsequence-sum-after-capping-elements) |
 | [3919-network-recovery-pathways](https://github.com/charizard00001/Leetcode/tree/master/3919-network-recovery-pathways) |
@@ -173,4 +176,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [4009-bitwise-or-of-even-numbers-in-an-array](https://github.com/charizard00001/Leetcode/tree/master/4009-bitwise-or-of-even-numbers-in-an-array) |
+## Combinatorics
+|  |
+| ------- |
+| [3631-count-k-reducible-numbers-less-than-n](https://github.com/charizard00001/Leetcode/tree/master/3631-count-k-reducible-numbers-less-than-n) |
 <!---LeetCode Topics End-->
