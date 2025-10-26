@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0577-employee-bonus](https://github.com/charizard00001/Leetcode/tree/master/0577-employee-bonus) |
 | [1153-product-sales-analysis-i](https://github.com/charizard00001/Leetcode/tree/master/1153-product-sales-analysis-i) |
+| [1292-immediate-food-delivery-ii](https://github.com/charizard00001/Leetcode/tree/master/1292-immediate-food-delivery-ii) |
 | [1317-monthly-transactions-i](https://github.com/charizard00001/Leetcode/tree/master/1317-monthly-transactions-i) |
 | [1338-queries-quality-and-percentage](https://github.com/charizard00001/Leetcode/tree/master/1338-queries-quality-and-percentage) |
 | [1390-average-selling-price](https://github.com/charizard00001/Leetcode/tree/master/1390-average-selling-price) |
