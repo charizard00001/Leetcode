@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0180-consecutive-numbers](https://github.com/charizard00001/Leetcode/tree/master/0180-consecutive-numbers) |
 | [0577-employee-bonus](https://github.com/charizard00001/Leetcode/tree/master/0577-employee-bonus) |
 | [0596-classes-with-at-least-5-students](https://github.com/charizard00001/Leetcode/tree/master/0596-classes-with-at-least-5-students) |
 | [0610-triangle-judgement](https://github.com/charizard00001/Leetcode/tree/master/0610-triangle-judgement) |
