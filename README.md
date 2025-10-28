@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/charizard00001/Leetcode/tree/master/0045-jump-game-ii) |
 | [0324-wiggle-sort-ii](https://github.com/charizard00001/Leetcode/tree/master/0324-wiggle-sort-ii) |
 | [0498-diagonal-traverse](https://github.com/charizard00001/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0546-remove-boxes](https://github.com/charizard00001/Leetcode/tree/master/0546-remove-boxes) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/charizard00001/Leetcode/tree/master/0045-jump-game-ii) |
 | [0546-remove-boxes](https://github.com/charizard00001/Leetcode/tree/master/0546-remove-boxes) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/charizard00001/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/charizard00001/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/charizard00001/Leetcode/tree/master/0045-jump-game-ii) |
 | [0324-wiggle-sort-ii](https://github.com/charizard00001/Leetcode/tree/master/0324-wiggle-sort-ii) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/charizard00001/Leetcode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 ## Stack
