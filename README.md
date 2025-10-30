@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2388-replace-elements-in-an-array](https://github.com/charizard00001/Leetcode/tree/master/2388-replace-elements-in-an-array) |
 | [2419-subarray-with-elements-greater-than-varying-threshold](https://github.com/charizard00001/Leetcode/tree/master/2419-subarray-with-elements-greater-than-varying-threshold) |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/charizard00001/Leetcode/tree/master/2609-distinct-prime-factors-of-product-of-array) |
+| [3092-minimum-moves-to-spread-stones-over-grid](https://github.com/charizard00001/Leetcode/tree/master/3092-minimum-moves-to-spread-stones-over-grid) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/charizard00001/Leetcode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/charizard00001/Leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/charizard00001/Leetcode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0803-cheapest-flights-within-k-stops](https://github.com/charizard00001/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/charizard00001/Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1753-path-with-minimum-effort](https://github.com/charizard00001/Leetcode/tree/master/1753-path-with-minimum-effort) |
+| [3092-minimum-moves-to-spread-stones-over-grid](https://github.com/charizard00001/Leetcode/tree/master/3092-minimum-moves-to-spread-stones-over-grid) |
 | [3863-power-grid-maintenance](https://github.com/charizard00001/Leetcode/tree/master/3863-power-grid-maintenance) |
 ## Heap (Priority Queue)
 |  |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1171-shortest-path-in-binary-matrix](https://github.com/charizard00001/Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1253-sort-the-matrix-diagonally](https://github.com/charizard00001/Leetcode/tree/master/1253-sort-the-matrix-diagonally) |
 | [1753-path-with-minimum-effort](https://github.com/charizard00001/Leetcode/tree/master/1753-path-with-minimum-effort) |
+| [3092-minimum-moves-to-spread-stones-over-grid](https://github.com/charizard00001/Leetcode/tree/master/3092-minimum-moves-to-spread-stones-over-grid) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/charizard00001/Leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3748-sort-matrix-by-diagonals](https://github.com/charizard00001/Leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 ## Dynamic Programming
@@ -133,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0803-cheapest-flights-within-k-stops](https://github.com/charizard00001/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/charizard00001/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/charizard00001/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [3092-minimum-moves-to-spread-stones-over-grid](https://github.com/charizard00001/Leetcode/tree/master/3092-minimum-moves-to-spread-stones-over-grid) |
 | [3631-count-k-reducible-numbers-less-than-n](https://github.com/charizard00001/Leetcode/tree/master/3631-count-k-reducible-numbers-less-than-n) |
 | [3776-find-minimum-cost-to-remove-array-elements](https://github.com/charizard00001/Leetcode/tree/master/3776-find-minimum-cost-to-remove-array-elements) |
 | [3873-subsequence-sum-after-capping-elements](https://github.com/charizard00001/Leetcode/tree/master/3873-subsequence-sum-after-capping-elements) |
