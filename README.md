@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0176-second-highest-salary](https://github.com/charizard00001/Leetcode/tree/master/0176-second-highest-salary) |
 | [0180-consecutive-numbers](https://github.com/charizard00001/Leetcode/tree/master/0180-consecutive-numbers) |
 | [0196-delete-duplicate-emails](https://github.com/charizard00001/Leetcode/tree/master/0196-delete-duplicate-emails) |
 | [0577-employee-bonus](https://github.com/charizard00001/Leetcode/tree/master/0577-employee-bonus) |
