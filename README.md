@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0324-wiggle-sort-ii](https://github.com/charizard00001/Leetcode/tree/master/0324-wiggle-sort-ii) |
 | [0498-diagonal-traverse](https://github.com/charizard00001/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0546-remove-boxes](https://github.com/charizard00001/Leetcode/tree/master/0546-remove-boxes) |
+| [1148-adding-two-negabinary-numbers](https://github.com/charizard00001/Leetcode/tree/master/1148-adding-two-negabinary-numbers) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/charizard00001/Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1253-sort-the-matrix-diagonally](https://github.com/charizard00001/Leetcode/tree/master/1253-sort-the-matrix-diagonally) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/charizard00001/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1148-adding-two-negabinary-numbers](https://github.com/charizard00001/Leetcode/tree/master/1148-adding-two-negabinary-numbers) |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/charizard00001/Leetcode/tree/master/2609-distinct-prime-factors-of-product-of-array) |
 | [3631-count-k-reducible-numbers-less-than-n](https://github.com/charizard00001/Leetcode/tree/master/3631-count-k-reducible-numbers-less-than-n) |
 ## Number Theory
