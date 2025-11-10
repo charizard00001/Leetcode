@@ -21,10 +21,11 @@ public:
                 }
             }
         }
-        int ans = -1;
-        for(int k = 0 ; k <= K ; ++k){
-            ans = max(ans, dp[n - 1][m - 1][k]);
-        }
-        return ans;
+        // int ans = -1;
+        // for(int k = 0 ; k <= K ; ++k){
+        //     ans = max(ans, dp[n - 1][m - 1][k]);
+        // }
+        // return ans;
+        return *max_element(dp[n - 1][m - 1].begin(), dp[n - 1][m - 1].end());
     }
 };
