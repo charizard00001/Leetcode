@@ -206,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0176-second-highest-salary](https://github.com/charizard00001/Leetcode/tree/master/0176-second-highest-salary) |
 | [0180-consecutive-numbers](https://github.com/charizard00001/Leetcode/tree/master/0180-consecutive-numbers) |
+| [0185-department-top-three-salaries](https://github.com/charizard00001/Leetcode/tree/master/0185-department-top-three-salaries) |
 | [0196-delete-duplicate-emails](https://github.com/charizard00001/Leetcode/tree/master/0196-delete-duplicate-emails) |
 | [0577-employee-bonus](https://github.com/charizard00001/Leetcode/tree/master/0577-employee-bonus) |
 | [0596-classes-with-at-least-5-students](https://github.com/charizard00001/Leetcode/tree/master/0596-classes-with-at-least-5-students) |
